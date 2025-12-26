@@ -14,7 +14,7 @@ Key Features:
 
 Good luck and enjoy!
 
-<img width="1390" height="430" alt="изображение" src="https://github.com/user-attachments/assets/269d861c-d2eb-4f5e-84b7-31d26baa95a6" />
+<img width="1066" height="398" alt="изображение" src="https://github.com/user-attachments/assets/fd7b205b-5b91-48bf-b0e5-ab22655bac87" />
 
 <img width="993" height="994" alt="изображение" src="https://github.com/user-attachments/assets/0bf1258e-455a-45f0-aee7-7cb8e942d384" />
 
