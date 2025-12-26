@@ -1,0 +1,12 @@
+TARGET = bbash
+CC = gcc
+CFLAGS = -IInclude -Wall
+LIBS = -lcrypt
+
+SRCS := $(shell find src -name "*.c")
+
+all:
+	$(CC) $(CFLAGS) $(SRCS) -o $(TARGET) $(LIBS)
+
+clean:
+	rm -f $(TARGET)
