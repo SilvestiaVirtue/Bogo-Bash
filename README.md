@@ -18,10 +18,12 @@ Good luck and enjoy!
 for the makefile install:
 
 Debian:
+
 sudo apt update
 sudo apt install build-essential
 
 Arch:
+
 sudo pacman -S base-devel
 
 
