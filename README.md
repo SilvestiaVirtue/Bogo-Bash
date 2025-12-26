@@ -14,6 +14,17 @@ Key Features:
 
 Good luck and enjoy!
 
+
+for the makefile install:
+
+Debian:
+sudo apt update
+sudo apt install build-essential
+
+Arch:
+sudo pacman -S base-devel
+
+
 bogofetch:
 
 <img width="1066" height="398" alt="изображение" src="https://github.com/user-attachments/assets/fd7b205b-5b91-48bf-b0e5-ab22655bac87" />
