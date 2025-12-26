@@ -20,6 +20,7 @@ for the makefile install:
 Debian:
 
 sudo apt update
+
 sudo apt install build-essential
 
 Arch:
