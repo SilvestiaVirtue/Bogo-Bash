@@ -23,6 +23,7 @@ sudo apt update
 
 sudo apt install build-essential
 
+
 Arch:
 
 sudo pacman -S base-devel
